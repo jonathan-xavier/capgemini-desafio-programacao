@@ -13,8 +13,6 @@
 
 :small_blue_diamond:[Pré-requisitos](#pre-requisitos)
 
-:small_blue_diamond:[Acesso ao projeto](#acesso-ao-projeto)
-
 :small_blue_diamond:[Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
 ## Descrição do projeto
@@ -26,10 +24,10 @@
 
 ## Desafio
 
-### [Questão 01](https://github.com/LuanRLima/capgemini-academia-desafio-programacao/tree/master/questao_01):
+### [Questão 01](https://github.com/jonathan-xavier/capgemini-desafio-programacao/blob/main/src/main/java/capgemini_desafio/capgemini_desafio/questao01/Questao01.java):
 >Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços.<br> A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
 
-### [Questão 02](https://github.com/LuanRLima/capgemini-academia-desafio-programacao/tree/master/questao_02):
+### [Questão 02](https://github.com/jonathan-xavier/capgemini-desafio-programacao/blob/main/src/main/java/capgemini_desafio/capgemini_desafio/questao02/Questao02.java):
 
 > Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
 > - Possui no mínimo 6 caracteres.
@@ -38,7 +36,7 @@
 > - Contém no mínimo 1 letra em maiúsculo.
 > - Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+
 
-### [Questão 03](https://github.com/LuanRLima/capgemini-academia-desafio-programacao/tree/master/questao_03):
+### [Questão 03](https://github.com/jonathan-xavier/capgemini-desafio-programacao/blob/main/src/main/java/capgemini_desafio/capgemini_desafio/questao03/Questao03.java):
 
 >Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
@@ -62,9 +60,6 @@
 
 Você pode [acessar os códigos fontes dos desafio](https://github.com/jonathan-xavier/capgemini-desafio-programacao) ou [baixá-lo](https://github.com/jonathan-xavier/capgemini-desafio-programacao/archive/refs/heads/master.zip).
 
-## Como acessar a documentação
-
-Você pode acessar a documentação de cada desafio, procure o local onde o desafio estar, entre na pasta do `desafio`, vá à pasta `doc` entre nela e abra o seu navegador o arquivo `index.html`. (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
 
 ## Abrir e rodar o projeto
 
