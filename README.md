@@ -20,8 +20,8 @@
 ## Descrição do projeto
 
 <p align="justify">
-  O projeto é desenvolver alternativas através de algorítimo para a solucionar os desafios de programação da terceira etapa do processo de seleção para a Academia Capgemini 2022.<br>
- O objetivo dessa etapa é testar os seus conhecimentos em lógica de programação. Para isso foi preparado três questões com diferentes níveis de dificuldades.
+  Projeto criado com o objetivo de construir uma solução para um desafio proposto pela capgemini. E assim testar os conhecimentos em lógica de programação.<br>
+ 
 </p>
 
 ## Desafio
@@ -50,7 +50,7 @@
 ## Ferramentas utilizadas
 
 <h3><a href="https://www.java.com"> Java - 11</a></h3>
-<h3><a href="https://www.java.com"> Junit - 5</a></h3>
+<h3><a href="https://www.java.com"> Junit - 4.1</a></h3>
 <h3><a href="https://www.java.com"> Maven</a></h3>
 
 
@@ -60,7 +60,7 @@
 
 ## Acesso ao projeto
 
-Você pode [acessar os códigos fontes dos desafio](https://github.com/LuanRLima/capgemini-academia-desafio-programacao) ou [baixá-lo](https://github.com/LuanRLima/capgemini-academia-desafio-programacao/archive/refs/heads/master.zip).
+Você pode [acessar os códigos fontes dos desafio](https://github.com/jonathan-xavier/capgemini-desafio-programacao) ou [baixá-lo](https://github.com/jonathan-xavier/capgemini-desafio-programacao/archive/refs/heads/master.zip).
 
 ## Como acessar a documentação
 
@@ -70,18 +70,15 @@ Você pode acessar a documentação de cada desafio, procure o local onde o desa
 
 ### Pré-requisitos
 - Baixar e instalar o [jdk 11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html).
-- Baixar e instalar o [IntelliJ](https://www.jetbrains.com/pt-br/idea), [Eclipse](https://www.eclipse.org/downloads) ou IDE de sua preferência. 
+- Baixar e instalar o [Eclipse](https://www.eclipse.org/downloads) ou IDE de sua preferência. 
 
-Após baixar o projeto, você pode abrir com o IDE favorita [IntelliJ](https://www.jetbrains.com/pt-br/idea), [Eclipse](https://www.eclipse.org/downloads) ou IDE de sua preferência.
+Após baixar o projeto, você pode abrir com o IDE favorita [Eclipse](https://www.eclipse.org/downloads) ou IDE de sua preferência.
 
-### [IntelliJ](https://www.jetbrains.com/pt-br/idea)
-- No [IntelliJ](https://www.jetbrains.com/pt-br/idea) você clica em `File` e depois `open`.
-- Procure o local onde o projeto está e o selecione um dos desafios (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo) por fim clique em `OK`.
-- O [IntelliJ](https://www.jetbrains.com/pt-br/idea) deve executar algumas tasks do [maven](https://maven.apache.org) para configurar o projeto e baixar as dependências necessárias, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆
+
 
 ### [Eclipse](https://www.eclipse.org/downloads)
-No [Eclipse](https://www.eclipse.org/downloads) você clica em `File` e depois `import`.
-- Procure por `maven`, escolhe `Existing Maven Projects`, clica em `next` e procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);
-- Selecione os três desafios questão_01, questao_02 e questao_03 clique em `finish`.
-- Por fim clique com o botão direito sobre cada projeto vai em `mavem` e clique em `update project` ou `alt` + `f5`. 
-- O [Eclipse](https://www.eclipse.org/downloads) deve executar algumas tasks do [maven](https://maven.apache.org) para configurar o projeto e baixar as dependências necessárias, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App do desafio🏆
+No [Eclipse](https://www.eclipse.org/downloads) você clica em  `File` e depois `import`.
+- Procure por `maven`, escolhe `Existing Maven Projects`, clica em `next` e procure o local onde o projeto está e o selecione se o projeto estiver zipado tem que extrai o arquivo antes de seleciona-lo.
+- Selecione o projeto e clique em `finish`.
+- Clique com o botão direito no projeto `mavem` e clique em `update project` ou `alt` + `f5`. 
+- O [Eclipse](https://www.eclipse.org/downloads) deve executar algumas tarefas do [maven](https://maven.apache.org) para configurar o projeto e baixar as dependências, depois é só aguardar finalizar e rodar o projeto.
