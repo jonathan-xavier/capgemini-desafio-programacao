@@ -11,8 +11,6 @@
 
 :small_blue_diamond:[Ferramentas utilizadas](#ferramentas-utilizadas)
 
-:small_blue_diamond:[Pré-requisitos](#pre-requisitos)
-
 :small_blue_diamond:[Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
 ## Descrição do projeto
