@@ -77,7 +77,7 @@ Após baixar o projeto, você pode abrir com o IDE favorita [Eclipse](https://ww
 
 ### [Eclipse](https://www.eclipse.org/downloads)
 No [Eclipse](https://www.eclipse.org/downloads) você clica em  `File` e depois `import`.
-- Procure por `maven`, escolhe `Existing Maven Projects`, clica em `next` e procure o local onde o projeto está e o selecione se o projeto estiver zipado tem que extrai o arquivo antes de seleciona-lo.
+- Procure por `maven`, escolha a opção `Existing Maven Projects`, clique em `next` e procure o local onde o projeto está e selecione, se o projeto estiver zipado tem que extrair o arquivo antes de seleciona-lo.
 - Selecione o projeto e clique em `finish`.
 - Clique com o botão direito no projeto `mavem` e clique em `update project` ou `alt` + `f5`. 
 - O [Eclipse](https://www.eclipse.org/downloads) deve executar algumas tarefas do [maven](https://maven.apache.org) para configurar o projeto e baixar as dependências, depois é só aguardar finalizar e rodar o projeto.
