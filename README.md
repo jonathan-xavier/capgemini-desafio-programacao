@@ -25,6 +25,7 @@
 ### [Questão 01](https://github.com/jonathan-xavier/capgemini-desafio-programacao/blob/main/src/main/java/capgemini_desafio/capgemini_desafio/questao01/Questao01.java):
 >Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços.<br> A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
 
+
 ### [Questão 02](https://github.com/jonathan-xavier/capgemini-desafio-programacao/blob/main/src/main/java/capgemini_desafio/capgemini_desafio/questao02/Questao02.java):
 
 > Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
@@ -41,6 +42,10 @@
 <div align="center">
 
   </div>
+  
+## Testes realizados com Junit
+<h3><a href="https://github.com/jonathan-xavier/capgemini-desafio-programacao/blob/main/src/test/java/capgemini_desafio/capgemini_desafio/Questao_01Test.java"> Teste Questão 01 </a></h3>
+
 
 
 ## Ferramentas utilizadas
