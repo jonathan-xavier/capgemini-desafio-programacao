@@ -44,8 +44,9 @@
   </div>
   
 ## Testes realizados com Junit
-<h3><a href="https://github.com/jonathan-xavier/capgemini-desafio-programacao/blob/main/src/test/java/capgemini_desafio/capgemini_desafio/Questao_01Test.java"> Teste Questão 01 </a></h3>
-
+<h3><a href="https://github.com/jonathan-xavier/capgemini-desafio-programacao/blob/main/src/test/java/capgemini_desafio/capgemini_desafio/Questao_01Test.java">Questão 01 -teste</a></h3>
+<h3><a href="https://github.com/jonathan-xavier/capgemini-desafio-programacao/blob/main/src/test/java/capgemini_desafio/capgemini_desafio/Questao_02Test.java">Questão 02 -teste</a></h3>
+<h3><a href="https://github.com/jonathan-xavier/capgemini-desafio-programacao/blob/main/src/test/java/capgemini_desafio/capgemini_desafio/Questao_03Test.java">Questão 03 -teste</a></h3>
 
 
 ## Ferramentas utilizadas
